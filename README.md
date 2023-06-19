@@ -1,5 +1,3 @@
-# vite project
+# factor finder gui
 
-a template for vite
-
-use degit
+for school
